@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "title": "ggg",
+    "purchasePrice": 4,
+    "sellingPrice": 4,
+    "quantity": 4,
+    "category": "educational",
+    "supplier": "fg",
+    "imageUrl": "https://raw.githubusercontent.com/developMEnew/upload_s_db/main/images/book_1731813996789.png",
+    "id": "book_1731814001394_bdlxt47x1",
+    "dateAdded": "2024-11-17T03:26:41.394Z"
+  }
+]
