@@ -9,5 +9,16 @@
     "imageUrl": "https://raw.githubusercontent.com/developMEnew/upload_s_db/main/images/book_1731810987779.png",
     "id": "book_1731810992101_usju4bynn",
     "dateAdded": "2024-11-17T02:36:32.101Z"
+  },
+  {
+    "title": "ggghd",
+    "purchasePrice": 5,
+    "sellingPrice": 5,
+    "quantity": 6,
+    "category": "non-fiction",
+    "supplier": "gg",
+    "imageUrl": "https://raw.githubusercontent.com/developMEnew/upload_s_db/main/images/book_1731810991799.png",
+    "id": "book_1731810995320_yezuhpi2g",
+    "dateAdded": "2024-11-17T02:36:35.320Z"
   }
 ]
