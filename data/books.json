@@ -1,13 +1,13 @@
 [
   {
-    "title": "gggh",
+    "title": "ggghd",
     "purchasePrice": 5,
     "sellingPrice": 5,
     "quantity": 6,
-    "category": "educational",
+    "category": "children",
     "supplier": "gg",
-    "imageUrl": "https://raw.githubusercontent.com/developMEnew/upload_s_db/main/images/book_1731809566002.png",
-    "id": "1731809568354",
-    "dateAdded": "2024-11-17T02:12:48.354Z"
+    "imageUrl": "https://raw.githubusercontent.com/developMEnew/upload_s_db/main/images/book_1731809638574.png",
+    "id": "1731809641022",
+    "dateAdded": "2024-11-17T02:14:01.022Z"
   }
 ]
