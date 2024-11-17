@@ -1,13 +1,13 @@
 [
   {
-    "title": "ggg",
-    "purchasePrice": 4,
+    "title": "gggh",
+    "purchasePrice": 5,
     "sellingPrice": 5,
-    "quantity": 5,
-    "category": "non-fiction",
+    "quantity": 6,
+    "category": "educational",
     "supplier": "gg",
-    "imageUrl": "https://raw.githubusercontent.com/developMEnew/upload_s_db/main/images/book_1731808915867.jpeg",
-    "id": "1731808919557",
-    "dateAdded": "2024-11-17T02:01:59.557Z"
+    "imageUrl": "https://raw.githubusercontent.com/developMEnew/upload_s_db/main/images/book_1731809562472.png",
+    "id": "1731809565154",
+    "dateAdded": "2024-11-17T02:12:45.154Z"
   }
 ]
